@@ -1,6 +1,6 @@
 ## Hi there, চলে নি? 👋
 
- ![welcome to my profile](https://github.com/dween46/dween46/blob/main/welcome%20to%20deen's%20profile%20new.gif) 
+ ![welcome to my profile](https://github.com/dween46/dween46/blob/main/welcome.gif) 
 
 - 🔭 I’m currently working as Data Analyst at <strong>Staff Asia</strong>
 - 🌱 I’m currently learning <strong>Deep Learning, Computer vision</strong>.
